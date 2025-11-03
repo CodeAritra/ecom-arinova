@@ -1,4 +1,6 @@
+import ProfilePage from "./pages/ProfilePage";
+
 function App() {
-  return <div className="text-3xl text-red-800 underline">hello</div>;
+  return <ProfilePage/>
 }
 export default App;
